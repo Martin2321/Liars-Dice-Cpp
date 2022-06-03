@@ -1,0 +1,4 @@
+﻿  GameLoop.cpp
+E:\0_PORTFOLIO_FODER\Ethan_Martin_Final_Project\Ethan_Martin_Liars_Dice_Final_Project\Ethan_Martin_Liars_Dice_Final_Project\GameLoop.cpp(90,20): warning C4018: '<': signed/unsigned mismatch
+E:\0_PORTFOLIO_FODER\Ethan_Martin_Final_Project\Ethan_Martin_Liars_Dice_Final_Project\Ethan_Martin_Liars_Dice_Final_Project\GameLoop.cpp(274,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Ethan_Martin_Liars_Dice_Final_Project.vcxproj -> E:\0_PORTFOLIO_FODER\Ethan_Martin_Final_Project\Ethan_Martin_Liars_Dice_Final_Project\Debug\Ethan_Martin_Liars_Dice_Final_Project.exe

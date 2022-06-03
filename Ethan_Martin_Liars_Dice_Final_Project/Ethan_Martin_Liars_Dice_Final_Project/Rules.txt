@@ -1,0 +1,20 @@
+Rules of Liar's Dice:
+	
+	The first player calls out two numbers.
+	These numbers represent the amount of dice he believes show a certain value.
+	For example, player one could call out "two fives".
+	Players are allowed to bluff.
+	
+	Next, the other players can decide to accept his call and move onto the next player's call.
+	If the call is accepted, player two gets to make his call.
+	Player two's call has to be greater in quantity than what player one called.
+	For example, if player one calls out "two five", player two must call out a value of three or higher.
+	Player two could call "three fives" or "four twos", but not "two sixes" or "one three".
+
+	The players can also call out the player for his call.
+	When a player is called out, all dice are revealed.
+	If player one is correct in his call, he wins.
+	If player one is incorrect in his call, the player who calls him out is the winner.
+
+	Gameplay continues until someone is called out.
+------------------------------------------------------------------------------------------------------------------------
